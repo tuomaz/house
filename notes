@@ -1,3 +1,10 @@
+CA
+Size inner = 179,4
+Size outer = 206
+
+Inner / outer ratio = 87%
+
+
 V3
 Size inner 21,2 * 7,3 + 5,2 * 2 = 165,16
 Size outer 21,9 * 8 + 2 * 5,9 = 187
@@ -6,3 +13,8 @@ Inner / outer ratio = 88,3%
 
 V4
 Size inner 21,6 * 7,5 + 5,4 * 2,2 = 174,4
+Size outer 22,3 * 8,2 + 6,1 * 2,3 = 196,89
+
+Inner / outer ratio = 88,6%
+
+
